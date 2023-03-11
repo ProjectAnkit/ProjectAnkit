@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-I currently opted for Computer Science Engineering.<br>I have also done my Advance Diploma In Computer System & Management.<br>I am currently Working on Data Structures & Algorithms.<br><br>   
+I currently opted for Computer Science Engineering.<br>I have also done my Advance Diploma In Computer System & Management.<br>I am currently Working on Flutter Framework ,an efficient and vast technology under Android Development.<br><br>   
 
 
 ## 🌐 Socials:
