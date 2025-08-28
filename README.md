@@ -9,7 +9,7 @@
     🎮 Anime • Games • Coding Challenges • Pixel Adventures
   </pre>
   <br>
-  <img src="https://c.tenor.com/aNHKkEhomm4AAAAC/tenor.gif" height="40" alt="Coding Anime" />
+  <img src="https://c.tenor.com/aNHKkEhomm4AAAAC/tenor.gif" height="100" alt="Coding Anime" />
   <br><br>
   <a href="https://linkedin.com/in/ankit-thakur-069a92214">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
