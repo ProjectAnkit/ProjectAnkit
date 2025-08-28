@@ -9,7 +9,7 @@
     🎮 Anime • Games • Coding Challenges • Pixel Adventures
   </pre>
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x3Z3N4eG5qNGRud3k2bDVvM2N0N2Q1bW1qazFudDN3M3Rjcm1ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b4Z7MknVvlOdZ2/giphy.gif" height="40" alt="Coding Anime" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x3Z3N4eG5qNGRud3k2bDVvM2N0N2Q1bW1qazFudDN3M3Rjcm1ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b4Z7MknVvlOdZ2/giphy.gif](https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif)" height="40" alt="Coding Anime" />
   <br><br>
   <a href="https://linkedin.com/in/ankit-thakur-069a92214">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -25,16 +25,6 @@
   </a>
 </div>
 
-## 🎓 Education
-- **Bachelor of Technology in Computer Science**  
-  KCC Institute of Technology and Management, Greater Noida, UP  
-  *Oct 2021 – Jul 2025*  
-  CGPA: 7.67 (First Division with Distinction)
-
-- **Senior Secondary (+2)**  
-  Shiwalik Public School, Rupnagar, Punjab  
-  *Mar 2020 – May 2021*  
-  Percentage: 78%
 
 ## 💼 Experience
 ### Software Engineer @ Jellyfish Technologies  
