@@ -43,10 +43,7 @@
 <div align="center">
   <img src="https://media.tenor.com/B2wAj2DHjxwAAAAi/make-no-small-plans-for-the-planet-no-small-plans.gif" width="50%" alt="Eco-Tracker Preview" />
 </div>
-- Full-stack app using Next.js 15, Spring Boot 3.3, and PostgreSQL 16 for 100+ users.  
-- JWT-based authentication with NextAuth.js and Spring Security.  
-- Dark-themed, responsive UI with Tailwind CSS and Chart.js, boosting engagement by 30%.  
-- Real-time carbon footprint reports with 25% faster data retrieval.  
+
 [GitHub Repo]([https://github.com/ProjectAnkit/Eco-Tracker](https://github.com/ProjectAnkit/Eco-tracker-Jeevanra-Frontend])
 
 
