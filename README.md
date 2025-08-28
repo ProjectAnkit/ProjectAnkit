@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z3NzJmd2Jsd3Nwc3RmdzB2d2c5eGNoa3A5b3R2d2piOWY3ZGthbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LrZ63ABDY5wLaY0i8F/giphy.gif" width="25%" align="right" alt="Anime Wave" />
+  <img src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif" width="25%" align="right" alt="Anime Wave" />
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hey+there!;I'm+Ankit%2C+a+tech+ninja+and+anime+alchemist+%E2%9C%A9;Crafting+code+with+epic+innovations!" width="70%" alt="Typing Animation" />
   <br><br>
   <pre>
