@@ -41,7 +41,7 @@
 ## 🛠️ Featured Project
 ### Eco-Tracker: Personalized Carbon Footprint Platform  
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM0ZDI2a3E5cTFjd3F0c2R6a3A3Y3k5ZGx6N3IzY2N5cGFlZ3B0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDcz7F4lZYXWIQo/giphy.gif" width="50%" alt="Eco-Tracker Preview" />
+  <img src="https://c.tenor.com/a48AXIvSTbkAAAAC/tenor.gif" width="50%" alt="Eco-Tracker Preview" />
 </div>
 - Full-stack app using Next.js 15, Spring Boot 3.3, and PostgreSQL 16 for 100+ users.  
 - JWT-based authentication with NextAuth.js and Spring Security.  
