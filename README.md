@@ -44,7 +44,7 @@
   <img src="https://media.tenor.com/B2wAj2DHjxwAAAAi/make-no-small-plans-for-the-planet-no-small-plans.gif" width="50%" alt="Eco-Tracker Preview" />
 </div>
 
-[GitHub Repo]([https://github.com/ProjectAnkit/Eco-Tracker](https://github.com/ProjectAnkit/Eco-tracker-Jeevanra-Frontend])
+REPO-LINK - [https://github.com/ProjectAnkit/Eco-tracker-Jeevanra-Frontend]
 
 
 ## 🧰 Skills
