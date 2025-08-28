@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif" width="25%" height="30%" align="right" alt="Anime Wave" />
+  <img src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif" width="25%" align="right" alt="Anime Wave" />
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hey+there!;I'm+Ankit%2C+a+tech+ninja+and+anime+alchemist+%E2%9C%A9;Crafting+code+with+epic+innovations!" width="70%" alt="Typing Animation" />
   <br><br>
   <pre>
@@ -9,7 +9,7 @@
     🎮 Anime • Games • Coding Challenges • Pixel Adventures
   </pre>
   <br>
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x3Z3N4eG5qNGRud3k2bDVvM2N0N2Q1bW1qazFudDN3M3Rjcm1ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b4Z7MknVvlOdZ2/giphy.gif](https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif)" height="40" alt="Coding Anime" />
+  <img src="https://c.tenor.com/aNHKkEhomm4AAAAC/tenor.gif" height="40" alt="Coding Anime" />
   <br><br>
   <a href="https://linkedin.com/in/ankit-thakur-069a92214">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
