@@ -72,12 +72,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&category=programming" alt="Daily Programming Quote">
 </div>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB4YzZjd3F6c3R2bDV4eG5jdHFvZXd0eG5jd3F6c3R2bDV4eG5jdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKtnuHOHHUjR68M/giphy.gif" width="200" alt="Anime Tech Vibe" />
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ProjectAnkit&icon=5&color=9" alt="Visitors">
-  </a>
-</div>
