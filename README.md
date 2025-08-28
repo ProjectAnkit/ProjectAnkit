@@ -44,7 +44,8 @@
   <img src="https://media.tenor.com/B2wAj2DHjxwAAAAi/make-no-small-plans-for-the-planet-no-small-plans.gif" width="50%" alt="Eco-Tracker Preview" />
 </div>
 
-REPO-LINK - [https://github.com/ProjectAnkit/Eco-tracker-Jeevanra-Frontend]
+🌱 A full-stack web app built with **Next.js** and **Shadcn/UI** to track and reduce carbon footprints with AI-driven insights. Features a dark-themed, responsive UI with dynamic charts, JWT authentication, and PostgreSQL for real-time data. Join 100+ users in the quest for a greener planet!  
+[Check it out on GitHub](https://github.com/ProjectAnkit/Eco-tracker-Jeevanra-Frontend)[](https://github.com/ProjectAnkit/Eco-tracker-Jeevanra-Frontend)
 
 
 ## 🧰 Skills
